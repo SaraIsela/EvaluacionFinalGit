@@ -7,3 +7,6 @@
 -Caracteristica1
 -Caracteristica2
 
+
+se soluciono el problema :D
+
