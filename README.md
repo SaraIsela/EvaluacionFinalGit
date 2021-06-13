@@ -1,3 +1,6 @@
 -"Dojo Dodge"
 -"Version 0"
--Lista de Caracteristicas: 
+-Lista de Caracteristicas:
+
+
+-Caracteristica2
